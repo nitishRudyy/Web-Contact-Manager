@@ -1,0 +1,10 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.jdt.ls.vmargs": "-javaagent:./lombok.jar",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "json.schemas": [
+         
+
+    ]
+     
+}
